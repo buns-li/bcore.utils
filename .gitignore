@@ -29,7 +29,11 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
+<<<<<<< HEAD
 # Compiled binary addons (https://nodejs.org/api/addons.html)
+=======
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+>>>>>>> 8ffdc7be732b2bbba80b8a7df98f288e3482c53a
 build/Release
 
 # Dependency directories
@@ -57,11 +61,3 @@ typings/
 # dotenv environment variables file
 .env
 
-# next.js build output
-.next
-
-# mac temp store file
-.DS_Store
-
-# project docs
-docs/
